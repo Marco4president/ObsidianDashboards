@@ -1,2 +1,2 @@
-# ObsidianDashboards
-templates for Personal and Financial Dashboards
+# ObsidianDashboard
+templates for Personal Financial Dashboards
